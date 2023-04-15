@@ -1,6 +1,6 @@
 
     public class Dormitories extends Family implements  PaymentAble {
-        public Dormitories(String[] parents, String[] children, String adress) {
+        public Dormitories(String[] parents, String[] children,String adress) {
             super(parents, children, adress);
         }
 
